@@ -20,11 +20,11 @@ const styles = StyleSheet.create({
   },
   text1: {
     fontWeight: 'bold' ,
-    fontSize: 20
+    fontSize: 25,
   },
   image1: {
-    width: 180,
-    height: 250,
+    width: 185,
+    height: 255,
     borderRadius: 20,
     margin: 20
   }

@@ -21,21 +21,21 @@ const styles = StyleSheet.create({
   },
   text1: {
     fontWeight: 'bold',
-    fontSize: 26,
+    fontSize: 25,
     justifyContent: 'center' ,
     textAlign: 'center',
 
   },
   image1: {
-    width: 250,
-    height: 250,
+    width: 255,
+    height: 255,
   },
   footerTxt1: {
     position: 'absolute',
     bottom: 35,
     width: '100%',
     textAlign: 'center',
-    fontSize: 12,
+    fontSize: 13,
     
   },
   footerTxt2: {
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     bottom: 20,
     width: '100%',
     textAlign: 'center',
-    fontSize: 12,
+    fontSize: 13,
     fontWeight: 'bold'
   },
 });
